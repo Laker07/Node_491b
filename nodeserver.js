@@ -6,8 +6,8 @@ var bodyParser = require('body-parser');
 
 var connection = mysql.createConnection({
    host     : 'localhost',
-   user     : 'root',
-   password : 'goku562',
+   user     : '*****',
+   password : '*****',
    database : 'gamedb'
  });
 
